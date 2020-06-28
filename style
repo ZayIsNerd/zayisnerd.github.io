@@ -1,0 +1,40 @@
+html, body{
+  height: 100%;
+  margin: 0;
+}
+
+#front-img{
+  height: 100%;
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#big-logo{
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+#navbar{
+  background-color: black;
+  width: 100%;
+}
+
+#navbar a{
+  text-decoration: none;
+  font-size: 24px;
+  color: white;
+  padding-top: 20px;
+  padding-right: 40px;
+  text-align: center;
+}
+
+#nav-logo{
+  margin: auto;
+}
+
+#navbar a:hover{
+  background-color: grey;
+}

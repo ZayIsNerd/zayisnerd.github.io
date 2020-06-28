@@ -3,7 +3,7 @@ html, body{
   margin: 0;
 }
 
-#front-img{
+/*#front-img{
   height: 100%;
   background-color: black;
   background-position: center;
@@ -15,7 +15,7 @@ html, body{
   display: block;
   margin: auto;
   width: 50%;
-}
+}*/
 
 #navbar{
   background-color: black;

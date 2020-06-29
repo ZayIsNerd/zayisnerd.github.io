@@ -1,6 +1,7 @@
 #banner-img{
   max-width: 100vw;
-  margin: auto;
+  margin: 0px;
+  padding: 0px;
 }
 
 #navbar{

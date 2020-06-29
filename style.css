@@ -1,1 +1,9 @@
+#banner-img{
+  max-width: 100vw;
+  margin: auto;
+}
 
+#navbar{
+   position: fixed;
+   top: 0px;
+}

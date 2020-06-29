@@ -7,4 +7,6 @@
 #navbar{
    position: fixed;
    top: 0px;
+   background-color: black;
+   width: 100vw;
 }

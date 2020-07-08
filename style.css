@@ -13,3 +13,7 @@
   width: 100%;
   margin: 0 auto;
 }     */
+
+#navbar ul{
+  display: inline-block;
+}

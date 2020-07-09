@@ -11,9 +11,6 @@
 #banner{
   width: 100vw;
   margin: 0 auto;
-  position: relative;
-  bottom: 40px;
-  background-color: black;
 }
 
 #banner-img{

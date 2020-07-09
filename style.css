@@ -11,6 +11,8 @@
 #banner{
   width: 100vw;
   margin: 0 auto;
+  position: fixed;
+  top: ;
 }
 
 #banner-img{

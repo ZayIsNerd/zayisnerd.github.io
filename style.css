@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+#nav-logo{
+  padding-left: 5px;
+}
+
 #banner{
   width: 100%;
   margin: 0 auto;

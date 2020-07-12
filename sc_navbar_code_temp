@@ -1,0 +1,24 @@
+<!--
+.dropbar.m-active {
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    visibility: visible;
+}
+.dropbar.m-insideContent {
+    margin-left: -30px;
+}
+.dropbar {
+    position: fixed;
+    top: 46px;
+    width: 1240px;
+    z-index: 500;
+    -webkit-transform: translate3d(0,-100%,0);
+    transform: translate3d(0,-100%,0);
+    transition: visibility .3s,-webkit-transform .3s;
+    transition: transform .3s,visibility .3s;
+    transition: transform .3s,visibility .3s,-webkit-transform .3s;
+    visibility: hidden;
+}
+
+
+https://soundcloud.com/demigodvi as resource -->

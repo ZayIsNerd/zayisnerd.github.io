@@ -1,4 +1,4 @@
-<!--
+
 .dropbar.m-active {
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
@@ -21,4 +21,6 @@
 }
 
 
-https://soundcloud.com/demigodvi as resource -->
+https://soundcloud.com/demigodvi as resource
+
+body -> div app -> div 1-container -> div content -> div 1-fluid-fixed -> div 1-main

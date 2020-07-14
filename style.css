@@ -3,12 +3,13 @@
   src: url("../zayisnerd.github.io/fonts/zrnic.ttf ") format('truetype');
 }
 
-#splash-screen{
+header{
   margin: 0;
   height: 50%;
 }
 
-#banner-img{
+.banner{
+  background-iamge: url(/zayisnerd.github.io/images/zayisnerd-banner.png);
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;

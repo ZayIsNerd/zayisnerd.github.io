@@ -3,6 +3,14 @@
   src: url("../zayisnerd.github.io/fonts/zrnic.ttf ") format('truetype');
 }
 
-h1, h2{
-  font-family: zrinc;
+#splash-screen{
+  margin: 0;
+  height: 50%;
+}
+
+#banner-img{
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }

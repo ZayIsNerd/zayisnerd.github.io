@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'zrinc';
-  src: url(..zayisnerd.github.io/fonts/zrinc.ttf) format('truetype');
+  font-family: zrinc;
+  src: url(../zayisnerd.github.io/fonts/zrinc.ttf) format('truetype');
 }
 
 #navbar{
-  font-family: 'zrinc';
+  font-family: zrinc;
 }
 
 h1 h2{
-  font-family: 'zrinc';
+  font-family: zrinc;
 }

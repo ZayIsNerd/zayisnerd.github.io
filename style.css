@@ -2,10 +2,16 @@ html {
   background-color: #696969 /*#000000*/;
 }
 
-#banner img {
+/* #banner img {
   width: 100%;
   height: auto;
   margin: 0;
-  position: relative;
-  
+} */
+
+#banner {
+  background-image: url("/zayisnerd.github.io/images/ZiN-Banner.png");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }

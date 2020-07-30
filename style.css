@@ -5,4 +5,5 @@ html {
 #banner img {
   width: 100%;
   height: auto;
+  margin: 0;
 }

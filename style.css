@@ -8,7 +8,7 @@ html {
   margin: 0;
 } */
 
-.banner{
+header{
   background-image: url(../images/ZiN-Banner.png);
   height: 100%;
   background-position: center;

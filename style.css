@@ -9,6 +9,6 @@ html {
 }
 
 #banner-image {
-  float: left;
-  position: relative;
+  width: 100%;
+  height: 50%;
 } 

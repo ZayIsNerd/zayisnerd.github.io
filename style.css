@@ -2,15 +2,8 @@ html {
   background-color: #696969 /*#000000*/;
 }
 
-/* #banner img {
+#banner-img {
   width: 100%;
-  height: auto;
+  height: 50%;
   margin: 0;
-} */
-
-#banner-image{
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+} 

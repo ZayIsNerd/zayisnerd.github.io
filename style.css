@@ -4,8 +4,11 @@ html {
   background-color: #696969 /*#000000*/;
 }
 
+#banner .banner-image{
 
-#banner-img {
+}
+
+#banner-image {
   float: left;
   position: relative;
 } 

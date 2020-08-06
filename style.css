@@ -6,5 +6,6 @@ html {
 
 
 #banner-img {
+  float: left;
   position: relative;
 } 
